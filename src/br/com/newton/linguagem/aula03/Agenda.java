@@ -27,7 +27,6 @@ public class Agenda {
         telefone.contatoC = contato4;
 
         telefone.Tocar(" Pagode");
-        telefone.Ligar("");
 
 
         System.out.println(telefone.contato.nome);
